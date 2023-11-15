@@ -1,4 +1,4 @@
-FROM node:21.0-bookworm-slim
+FROM node:node@21.0-bookworm-slim › zlib/zlib1g@1:1.2.13.dfsg-1 
 
 RUN npm install -g npm@9.1.3
 
